@@ -2,7 +2,7 @@
 
 A Windows desktop utility (WinForms) that keeps your PC and handhelds (e.g., Steam Deck) in sync by **linking local game save folders to a cloud folder (OneDrive or any cloud drive)** using Windows **directory junctions**. Ideal for visual novels and non-Steam titles that don’t support Steam Cloud.
 
-![app_ss](https://github.com/user-attachments/assets/95d828c2-18e7-4974-9910-0a41e9eafc67)
+![app_ss](https://github.com/user-attachments/assets/a9fa3803-67a1-4fe5-9a54-5d7b0cd35e3e)
 
 ---
 
