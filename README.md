@@ -1,6 +1,6 @@
 # Game Save Link Manager
 
-A Windows utility that syncs game save folders with OneDrive (or any cloud drive) using junctions folders.
+A Windows utility that syncs game save folders with OneDrive (or any cloud drive) using junction folders. This ensures your games save and load directly from the cloud, so other devices can seamlessly continue your progress without manual file copying.
 
 ![app_ss](https://github.com/user-attachments/assets/a9fa3803-67a1-4fe5-9a54-5d7b0cd35e3e)
 
