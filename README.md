@@ -1,6 +1,6 @@
 # Game Save Link Manager
 
-A Windows desktop utility (WinForms) that keeps your PC and handhelds (e.g., Steam Deck) in sync by **linking local game save folders to a cloud folder (OneDrive or any cloud drive)** using Windows **directory junctions**. Ideal for visual novels and non-Steam titles that don’t support Steam Cloud.
+A Windows utility that syncs game save folders with OneDrive (or any cloud drive) using junctions folders.
 
 ![app_ss](https://github.com/user-attachments/assets/a9fa3803-67a1-4fe5-9a54-5d7b0cd35e3e)
 
@@ -32,9 +32,9 @@ A Windows desktop utility (WinForms) that keeps your PC and handhelds (e.g., Ste
 - **Pipe-separated** fields: `Alias|TargetPath|LocalSavePath`
 
 ### Fields
-- **Alias**: Your friendly game name (used in UI, defaults, and logs).
-- **TargetPath**: Relative to `%OneDrive%` (no leading backslash) or absolute path.
-- **LocalSavePath**: Absolute path to the local save folder
+- **Alias**: Your game name.
+- **TargetPath**: Path to save folder on OneDrive
+- **LocalSavePath**: Path to the local save folder
 
 ### Example
 ```
